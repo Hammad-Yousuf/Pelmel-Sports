@@ -3,10 +3,10 @@
 // Navbar On Scrol
 
 let width = window.innerWidth;
-console.log(width)
+// console.log(width)
 $(window).resize(function(){
     let width = window.innerWidth;
-    console.log(width)
+    // console.log(width)
     
 })
 
